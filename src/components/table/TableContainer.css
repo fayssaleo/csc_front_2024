@@ -1,0 +1,41 @@
+.paginator {
+    margin-top: 1%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: auto */
+}
+.inline {
+    display: flex;
+    justify-content: center;
+}
+.inline_label {
+    margin-top: 1%;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    
+}
+.pagination_button {
+    margin-right : 2px;
+    margin-left : 2px;
+    width: 50px;
+    height : 50px;
+}
+#page_number_label {
+    margin-top: 10px;
+    width : 500px
+}
+#page_number_input {
+    margin-top: 7px;
+
+}
+#page_number_select {
+    margin-top: 7px;
+    width: 50%;
+
+}
+/* .filter {
+    margin-top:10%
+} */

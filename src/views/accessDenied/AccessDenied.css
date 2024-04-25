@@ -1,0 +1,12 @@
+#title {
+    text-align: center;
+    font-weight: bolder;
+}
+.access-denied {
+    margin-top: 10%;
+}
+
+#message {
+    text-align: center;
+    font-size: x-large;
+}

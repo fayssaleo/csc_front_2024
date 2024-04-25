@@ -1,0 +1,75 @@
+#load-button {
+  margin-right: 10px;
+}
+
+#wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#checkboxLabels {
+  display: inline-block;
+}
+.card-body {
+  padding: 13px 17px !important;
+}
+.activeButton {
+  background-color: #4caf50;
+  display: inline-block;
+  width: 142px;
+  height: 43px;
+  color: white;
+  padding: 8px 8px 8px 10px;
+  border-radius: 16px;
+  font-family: sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  user-select: none;
+  font-weight: bold;
+}
+.disableButton {
+  background-color: #545252;
+  display: inline-block;
+  width: 142px;
+  height: 43px;
+  color: white;
+  padding: 8px 8px 8px 10px;
+  border-radius: 16px;
+  font-family: sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  user-select: none;
+  font-weight: bold;
+}
+.activeButton2 {
+  background-color: #4f41cf;
+  display: inline-block;
+  width: 142px;
+  height: 43px;
+  color: white;
+  padding: 8px 8px 8px 10px;
+  border-radius: 16px;
+  font-family: sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  user-select: none;
+  font-weight: bold;
+}
+.disableButton2 {
+  background-color: #545252;
+  display: inline-block;
+  width: 142px;
+  height: 43px;
+  color: white;
+  padding: 8px 8px 8px 10px;
+  border-radius: 16px;
+  font-family: sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  user-select: none;
+  font-weight: bold;
+}
+.HoverClass:hover {
+  opacity: 0.8;
+}
